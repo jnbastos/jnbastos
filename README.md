@@ -57,5 +57,5 @@ Grouped 342 households by how they use water through the day, using smart-meter 
 
 ---
 
-<sub>The terminal header above is drawn by a small, tested Python script ([build.py](https://github.com/jnbastos/jnbastos/blob/main/build.py)) and redrawn monthly by GitHub Actions, so the uptime and the yearly contribution count stay current.</sub>
+<sub>The terminal header above is drawn by a small, tested Python script ([build.py](https://github.com/jnbastos/jnbastos/blob/main/build.py)) and redrawn weekly by GitHub Actions, so the uptime and the yearly contribution count stay current.</sub>
 [![Build header](https://github.com/jnbastos/jnbastos/actions/workflows/build.yml/badge.svg)](https://github.com/jnbastos/jnbastos/actions/workflows/build.yml)

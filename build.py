@@ -1,6 +1,6 @@
 """Render the profile header as light and dark terminal-style SVGs.
 
-Run `python3 build.py`. GitHub Actions reruns it monthly so the uptime line stays current.
+Run `python3 build.py`. GitHub Actions reruns it weekly so the contribution count and uptime stay current.
 """
 import re
 import urllib.request
