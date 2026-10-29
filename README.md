@@ -11,7 +11,7 @@ I build backend and data systems in Python, from the database schema to the dash
 
 ## What I work on
 
-- **Now: Software Engineer at PluggableAI.** [Fan of the Match](https://www.fanofthematch.ai) is an AI platform that reads crowd energy through fans' smartphones, used by 10+ clubs. I designed and built its live sports-data system, cut end-of-match scoring from minutes to about a second, and built the analytics and customer dashboards.
+- **Now: Software Engineer at PluggableAI.** [Fan of the Match](https://www.fanofthematch.ai) is an AI platform that reads crowd energy through fans' smartphones, used by 10+ clubs. I designed and built its live sports-data system and the analytics and customer dashboards.
 - **2024: Data and Application Engineer at DTx CoLAB.** On Be.Neutral, a national programme for carbon-neutral urban mobility, I built a base-station placement solution with clustering and optimisation, balancing coverage and cost, and backend APIs and authentication for an IoT platform for shared cars and bikes.
 - **2022–2023: Research Fellow at NETEDGE**, an edge-computing project for telecom networks (below).
 - **MSc in Mathematics and Computation (Machine Learning)**, University of Minho, dissertation graded 19/20.
