@@ -40,7 +40,7 @@ My part:
 
 <a href="https://github.com/jnbastos/household-water-use-patterns"><img src="https://raw.githubusercontent.com/jnbastos/household-water-use-patterns/main/figures/daily_profiles.png" alt="Three typical daily water-use profiles found in 342 households" width="560"></a>
 
-Grouped 342 households by how they use water through the day, using smart-meter data from Águas do Norte. Describing each home with five summary figures instead of its full 24-hour curve gave the most consistent groups, and on the largest dataset it ran about 500 times faster than the same algorithm on full curves.
+Grouped 342 households by how they use water through the day, using smart-meter data from Águas do Norte. Describing each home with five summary figures instead of its full 24-hour curve gave consistently good groups, and on the largest dataset it was much faster than the same algorithm on full curves (91 ms against 46 s).
 
 [Code](https://github.com/jnbastos/household-water-use-patterns) · [Dissertation](https://repositorium.uminho.pt/entities/publication/c8ec9929-953a-4e22-a9ac-8dec8cd1a096) · [JOCLAD 2023 abstract](https://clad.pt/DOC_EVENTOS/BookofAbstracts_joclad2023.pdf#page=119)
 
